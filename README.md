@@ -13,37 +13,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
-  
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%2300748F?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-  <br/><br/>
-
-  <!-- Mobile & Web -->
-  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-  <br/><br/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/H2-Database-%23128dcb?style=for-the-badge&logo=databricks&logoColor=white" />
-
+  <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,spring,bootstrap,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,h2&theme=dark" />
 </div>
+
 
 
 ---
