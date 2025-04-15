@@ -1,11 +1,8 @@
 <!-- GitHub Dark Cyber Dev Vibe README for SETHULAKSHMANAN SP -->
 
-<h1 align="center">👨‍💻 SETHULAKSHMANAN SP</h1>
-
-<p align="center">
-  <b>Software Engineer | Problem Solver | Tech Explorer</b><br>
-  Final Year CSE Student at St. Joseph’s Institute of Technology
-</p>
+<h1 align="center" style="font-size: 48px; color: #1e90ff;">👨‍💻 SETHULAKSHMANAN SP</h1>
+<p align="center" style="font-size: 22px; color: #cccccc;">Software Engineer | Problem Solver | Tech Explorer</p>
+<p align="center" style="font-size: 16px; color: #bbbbbb;">Final Year CSE Student at St. Joseph’s Institute of Technology</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Chennai,%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -16,9 +13,9 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 **Tech Stack**
 
-<p align="center">
+<div align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql" /><br><br>
   
@@ -30,85 +27,81 @@
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" />
-</p>
+</div>
 
 ---
 
-## 💼 Current Roles & Internships
+## 💼 **Experience**
 
-### 🏭 Fifth Generation Technologies India Pvt Ltd  
-🗓️ *June 2024 – Present*  
-🔧 Migrating industrial-grade monitoring systems from **Ionic 3 → Ionic 7** for better performance and long-term support.
+### 🏭 **Fifth Generation Technologies India Pvt Ltd**  
+*Internship | June 2024 – Present*  
+- Migrating an industrial **machinery monitoring application** from **Ionic 3 → Ionic 7** to enhance compatibility and maintainability.
 
-### 🔐 Supraja Technologies  
-🗓️ *Feb 2024 – June 2024*  
-🛠️ Used **Nmap**, **Wireshark**, **Burp Suite** for real-world network enumeration & scanning tasks.
+### 🛡️ **Supraja Technologies**  
+*Internship | Feb 2024 – June 2024*  
+- Worked with **Nmap**, **Wireshark**, and **Burp Suite** in network scanning and vulnerability assessments.
 
 ---
 
-## 🧠 Problem Solving & DSA
+## 🔥 **Leetcode & DSA Mastery**
 
-### 💻 Leetcode Achievements
+### 🏆 **Leetcode Profile**
 
 <p align="center">
-  <a href="https://leetcode.com/sethulakshmanan11/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-210+%20problems-orange?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/sethulakshmanan11/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-210+%20problems-orange?style=flat-square&logo=leetcode&logoColor=white" width="250"/>
+  </a>
 </p>
 
-- **Over 210 problems solved** on **Leetcode**, ranging from **easy to advanced** difficulty.
-- Consistently solving **algorithm challenges** to sharpen problem-solving skills.
-- **Ranked** in the top **5%** for **difficulty** handling.
+### **DSA Achievements**
+- **Leetcode:** Solved **210+ problems** from **easy to hard**, consistently ranked in top **5%** for **difficulty handling**.
+- Mastered **Data Structures** (Arrays, Trees, Graphs, etc.) and **Algorithms** (Sorting, Dynamic Programming, Divide and Conquer).
+- Focused on **SOLID principles** and **OOPS** for more scalable and optimized solutions.
 
-### 📚 DSA Mastery
-
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</p>
-
-- Proficient in **Data Structures** (Arrays, Linked Lists, Trees, Graphs, Heaps, Stacks, Queues).
-- Strong focus on **algorithms** (Sorting, Searching, Dynamic Programming, Divide and Conquer).
-- Implementing **SOLID principles** and **OOPS concepts** for cleaner and more efficient code.
+</div>
 
 ---
 
-## ⚙️ Projects Showcase
+## ⚙️ **Projects**
 
-### 🔧 Smart Vehicle-Mounted Pothole Detection  
-> YOLOv4-Tiny, Raspberry Pi 4, Flutter, Firebase  
-📍 Real-time pothole detection + mapping system  
-🏆 *Best Research Paper Award – IEEE ICUIS 2024*
-
----
-
-### 🗺️ Citizen Issue Reporting App  
-> Flutter, Firebase RTDB, OpenStreetMap  
-📸 Report with image + tag + location  
-🏅 *1st Place – Cognizant & StartupTN Hackathon*
+### 🔧 **Smart Vehicle-Mounted Pothole Detection**  
+> **Tech:** YOLOv4-Tiny, Raspberry Pi 4, Flutter, Firebase  
+📍 A **real-time pothole detection system** that helps reduce accidents and improve road safety.  
+🏆 **Best Research Paper Award** at *ICUIS 2024 (IEEE-CIS)* – Out of 250+ submissions.
 
 ---
 
-### 🔐 CVE Custom API  
-> Spring Boot, H2, JPA, HTML, JS  
-📊 10,000+ CVEs filtered by year/score/date  
-🧩 Built with clean MVC pattern and REST APIs
+### 🗺️ **Citizen Issue Reporting Application**  
+> **Tech:** Flutter, Firebase RTDB, OpenStreetMap  
+🚧 Allows citizens to report local issues such as **road damage**, **garbage**, **electricity issues**.  
+🏅 **1st Place** in the *Cognizant + StartupTN Hackathon* (400+ participants).
 
 ---
 
-## 🏅 Achievements
-
-| 🏆 Title | 🏁 Organization / Event |
-|---------|--------------------------|
-| 🥇 Best Paper – ICUIS 2024 | IEEE-CIS |
-| 🥇 1st Place Hackathon | StartupTN + Cognizant |
-| 🎯 Finalist | Smart India Hackathon 2023 |
-| 🥈 Runner-up | Cubethon – Cubet + Nasscom |
-| 🥇 Winner | IEEE YESIST’12, Egypt |
-| 🥈 2nd Place | Hack Wheel Hackathon 2022 |
+### 🔐 **CVE Custom API**  
+> **Tech:** Spring Boot, JPA, H2, HTML, JavaScript  
+🛠️ **CVE Management API** to filter, display, and search through 10,000+ **CVE** records.  
+🔧 Built with **REST APIs** and **MVC architecture** for scalable design.
 
 ---
 
-## 🧠 Currently Learning
+## 🏅 **Achievements**
 
+| 🏆 Title | 🏁 Organization/Event |
+|---------|------------------------|
+| 🥇 **Best Paper** – ICUIS 2024 | IEEE-CIS |
+| 🥇 **1st Place** – Socio-Tech Hackathon | StartupTN + Cognizant |
+| 🎯 **Finalist** – Smart India Hackathon 2023 | Indian Govt. |
+| 🥈 **Runner-up** – Cubethon 2023 | Cubet + Nasscom |
+| 🥇 **Winner** – IEEE YESIST’12, Egypt | IEEE |
+| 🥈 **2nd Place** – Hack Wheel Hackathon 2022 | Chennai, TN |
+
+---
+
+## 🎯 **Currently Learning**
 ```txt
 > WebSocket + Django backend → Real-time chart updates
-> Offline-first billing app for local clothing shops
-> TensorFlow-Lite + OpenCV for on-device pothole detection
+> TensorFlow-Lite + OpenCV for On-device Pothole Detection
+> Offline-first Billing App for Local Clothing Shops
