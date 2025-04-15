@@ -1,117 +1,99 @@
-<!-- Profile Header -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/64844446?v=4" width="120" style="border-radius: 50%" alt="Profile Picture"/>
-  <h1>Hey, I'm <strong>Sethulakshmanan SP</strong> 👨‍💻</h1>
-  <p>Crafting scalable tech | Offline-first mobile dev | Open source explorer</p>
+<!-- GitHub Dark Cyber Dev Vibe README for SETHULAKSHMANAN SP -->
 
-  <a href="mailto:sethulakshmanan11@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/sethulakshmanan-sp">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/sethubolt7">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-</div>
+<h1 align="center">👨‍💻 SETHULAKSHMANAN SP</h1>
 
----
+<p align="center">
+  <b>Software Engineer | Problem Solver | Tech Explorer</b><br>
+  Final Year CSE Student at St. Joseph’s Institute of Technology
+</p>
 
-## 🧠 Who Am I?
-
-- 🎓 Final-year CSE @ **St. Joseph’s Institute of Technology** (CGPA: 8.13)
-- 🔧 Building **offline-first billing apps**, **real-time detection systems**, and **micro APIs**
-- ⚡ Always up for building scalable, efficient, no-fluff software
+<p align="center">
+  <img src="https://img.shields.io/badge/-Chennai,%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <a href="mailto:sethulakshmanan11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sethulakshmanan-sp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sethubolt7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-<div align="center">
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql" /><br><br>
+  
+  <!-- Frontend & Mobile -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,dart,firebase" /><br><br>
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br/>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" /><br/>Flutter
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /><br/>Firebase
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" /><br/>Spring
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br/>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br/>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br/>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /><br/>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br/>Git
-    </td>
-  </tr>
-</table>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=spring,h2" /><br><br>
 
-</div>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" />
+</p>
 
 ---
 
-## 🚀 Featured Work
+## 💼 Current Roles & Internships
 
-### 🔧 Smart Pothole Detection System  
-> YOLOv4-Tiny + Raspberry Pi + Flutter  
-> Real-time object detection, alerts & mapping  
-🏆 **Best Research Paper @ ICUIS 2024 (IEEE-CIS)**
+### 🏭 Fifth Generation Technologies India Pvt Ltd  
+🗓️ *June 2024 – Present*  
+🔧 Migrating industrial-grade monitoring systems from **Ionic 3 → Ionic 7** for better performance and long-term support.
 
-### 📲 Citizen Issue Reporting App  
-> Flutter + Firebase + Map Integration  
-> Crowdsource civic issues with location + images  
-🥇 **Winner – Cognizant + StartupTN Hackathon**
+### 🔐 Supraja Technologies  
+🗓️ *Feb 2024 – June 2024*  
+🛠️ Used **Nmap**, **Wireshark**, **Burp Suite** for real-world network enumeration & scanning tasks.
+
+---
+
+## 📈 Problem Solving
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Leetcode-210+ problems-orange?style=flat-square&logo=leetcode" />
+  <img src="https://img.shields.io/badge/GFG-120+ problems-green?style=flat-square&logo=geeksforgeeks" />
+</p>
+
+---
+
+## ⚙️ Projects Showcase
+
+### 🔧 Smart Vehicle-Mounted Pothole Detection  
+> YOLOv4-Tiny, Raspberry Pi 4, Flutter, Firebase  
+📍 Real-time pothole detection + mapping system  
+🏆 *Best Research Paper Award – IEEE ICUIS 2024*
+
+---
+
+### 🗺️ Citizen Issue Reporting App  
+> Flutter, Firebase RTDB, OpenStreetMap  
+📸 Report with image + tag + location  
+🏅 *1st Place – Cognizant & StartupTN Hackathon*
+
+---
 
 ### 🔐 CVE Custom API  
-> Spring Boot + H2 DB + REST  
-> Handles 10,000+ CVEs with advanced filters  
-🛠 Built with modular MVC pattern
+> Spring Boot, H2, JPA, HTML, JS  
+📊 10,000+ CVEs filtered by year/score/date  
+🧩 Built with clean MVC pattern and REST APIs
 
 ---
 
-## 📊 GitHub Insights
+## 🏅 Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sethubolt7&theme=tokyonight&show_icons=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sethubolt7&theme=tokyonight" height="150"/>
-</div>
-
----
-
-## 🏆 Achievements
-
-- 🥇 Best Research Paper – ICUIS 2024 (IEEE-CIS)
-- 🥇 1st Place – Socio-Tech Hackathon (StartupTN + Cognizant)
-- 🏁 Finalist – Smart India Hackathon 2023
-- 🥈 Runner-up – Cubethon 2023 (Cubet + Nasscom)
-- 🥇 Winner – IEEE YESIST’12 Track, Egypt
-- 🥈 Hack Wheel Hackathon 2022
+| 🏆 Title | 🏁 Organization / Event |
+|---------|--------------------------|
+| 🥇 Best Paper – ICUIS 2024 | IEEE-CIS |
+| 🥇 1st Place Hackathon | StartupTN + Cognizant |
+| 🎯 Finalist | Smart India Hackathon 2023 |
+| 🥈 Runner-up | Cubethon – Cubet + Nasscom |
+| 🥇 Winner | IEEE YESIST’12, Egypt |
+| 🥈 2nd Place | Hack Wheel Hackathon 2022 |
 
 ---
 
-## ⚡ Quick Links
+## 🧠 Currently Learning
 
-```bash
-📂 Portfolio Projects: Check pinned repos below 👇
-🧠 Tech Blogs (coming soon...)
-📸 Snapshots: Adding screenshots to key repos soon!
+```txt
+> WebSocket + Django backend → Real-time chart updates
+> Offline-first billing app for local clothing shops
+> TensorFlow-Lite + OpenCV for on-device pothole detection
