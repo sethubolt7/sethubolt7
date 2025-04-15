@@ -1,8 +1,8 @@
-<!-- GitHub Dark Cyber Dev Vibe README for SETHULAKSHMANAN SP -->
+<!-- GitHub README for SETHULAKSHMANAN SP -->
 
-<h1 align="center" style="font-size: 48px; color: #1e90ff;">👨‍💻 SETHULAKSHMANAN SP</h1>
-<p align="center" style="font-size: 22px; color: #cccccc;">Software Engineer | Problem Solver | Tech Explorer</p>
-<p align="center" style="font-size: 16px; color: #bbbbbb;">Final Year CSE Student at St. Joseph’s Institute of Technology</p>
+<h1 align="center">👨‍💻 SETHULAKSHMANAN SP</h1>
+<p align="center">Software Engineer | Problem Solver | Tech Explorer</p>
+<p align="center">Final Year CSE Student at St. Joseph’s Institute of Technology</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Chennai,%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -13,26 +13,25 @@
 
 ---
 
-<!-- Tech + Leetcode Combined Grid -->
+<div align="center">
+
 <table>
   <tr>
-    <!-- Left: Tech Stack -->
-    <td align="center" valign="top" width="50%">
-      <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,sql&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=flutter,firebase,spring,bootstrap,html,css&theme=dark" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,sql&theme=dark" /><br>
+      <img src="https://skillicons.dev/icons?i=flutter,firebase,spring,bootstrap,html,css&theme=dark" /><br>
       <img src="https://skillicons.dev/icons?i=git,linux,vscode,h2&theme=dark" />
     </td>
-
-    <!-- Right: Leetcode Stats -->
-    <td align="center" valign="top" width="50%">
+    <td align="center">
       <a href="https://leetcode.com/sethulakshmanan11/">
-        <img src="https://leetcard.jacoblin.cool/sethulakshmanan11?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
-      </a>
-      <br/>
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=sethulakshmanan11&theme=github-dark&animated=true" alt="LeetCode Badges" />
+        <img src="https://leetcard.jacoblin.cool/sethulakshmanan11?theme=dark&font=baloo&ext=activity" width="300px"/>
+      </a><br>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=sethulakshmanan11&theme=github-dark&animated=true" width="250px"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
