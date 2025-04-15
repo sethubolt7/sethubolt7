@@ -12,6 +12,11 @@ B.E. CSE | St. Joseph's Institute of Technology | 2025
 
 
 <!-- Add space between the sections 70 90 -->
+| **My Competitive Coding Presence**                                   | **Reach Out**                                                  |
+|----------------------------------------------------------------------|----------------------------------------------------------------|
+| [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/SETHULAKSHMANAN_SP/) | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sethulakshmanan-sp/) |
+| [<img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/sethubewgq/) | [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sethulakshmanan11@gmail.com) |
+
 
 | **My Competitive Coding Presence**  |   **Reach Out**|
 |-------------------------------------|----------------|
