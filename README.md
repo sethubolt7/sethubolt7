@@ -1,9 +1,7 @@
 <!-- GitHub Dark Cyber Dev Vibe README for SETHULAKSHMANAN SP -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=1E90FF&vCenter=true&random=false&width=600&lines=👨‍💻+SETHULAKSHMANAN+SP;Software+Engineer+%7C+Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
-</h1>
-
+<h1 align="center" style="font-size: 48px; color: #1e90ff;">👨‍💻 SETHULAKSHMANAN SP</h1>
+<p align="center" style="font-size: 22px; color: #cccccc;">Software Engineer | Problem Solver | Tech Explorer</p>
 <p align="center" style="font-size: 16px; color: #bbbbbb;">Final Year CSE Student at St. Joseph’s Institute of Technology</p>
 
 <p align="center">
@@ -22,8 +20,13 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://leetcode.com/u/SETHULAKSHMANAN_SP/">
-        <img src="https://leetcard.jacoblin.cool/SETHULAKSHMANAN_SP?ext=contest&theme=dark&animation=true" />
+        <img src="https://leetcard.jacoblin.cool/SETHULAKSHMANAN_SP?ext=contest&theme=dark" />
       </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LeetCode-210+%20problems-orange?style=flat-square&logo=leetcode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rank-Top%205%25-blue?style=flat-square&logo=leetcode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Problems-Solved-30%2F100-orange?style=flat-square&logo=leetcode&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
