@@ -13,23 +13,11 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,flutter,firebase,spring,bootstrap,html,css,git,linux,vscode,h2&perline=4&theme=dark" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://leetcode.com/u/SETHULAKSHMANAN_SP/">
-        <img src="https://leetcard.jacoblin.cool/SETHULAKSHMANAN_SP?ext=contest&theme=dark" />
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/LeetCode-210+%20problems-orange?style=flat-square&logo=leetcode&logoColor=white" />
-        <img src="https://img.shields.io/badge/Rank-Top%205%25-blue?style=flat-square&logo=leetcode&logoColor=white" />
-        <img src="https://img.shields.io/badge/Problems-Solved-30%2F100-orange?style=flat-square&logo=leetcode&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+## 🧠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,flutter,firebase,spring,bootstrap,html,css,git,linux,vscode,h2&perline=4&theme=dark" />
+</div>
 
 ---
 
@@ -50,6 +38,27 @@
 - Solved **210+ problems** across all levels.
 - Consistently ranked in top **5%** for handling hard problems.
 - Mastered **DSA patterns** – Trees, Graphs, Sliding Window, DP, Recursion, OOPS.
+
+<div align="center">
+  <a href="https://leetcode.com/u/SETHULAKSHMANAN_SP/">
+    <img src="https://leetcard.jacoblin.cool/SETHULAKSHMANAN_SP?ext=contest&theme=dark" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/LeetCode-210+%20problems-orange?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rank-Top%205%25-blue?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problems-Solved-30%2F100-orange?style=flat-square&logo=leetcode&logoColor=white" />
+</div>
+
+---
+
+### **GeeksforGeeks (GFG) Profile**
+<div align="center">
+  <a href="https://auth.geeksforgeeks.org/user/sethulakshmanan11/">
+    <img src="https://geekcard.geeksforgeeks.org/user/sethulakshmanan11" alt="GFG Profile" width="200" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/GFG%20Problems-Solved%20%3E%20150-green?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+</div>
 
 ---
 
