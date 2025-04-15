@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm Sethulakshmanan SP
 
 Final Year CSE @ St. Joseph's Institute of Technology  
-[![Sethu's LeetCode Stats](https://leetcard.jacoblin.cool/SETHULAKSHMANAN_SP?ext=contest&theme=dark)](https://leetcode.com/u/SETHULAKSHMANAN_SP/)
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
 - 🔧 Building **Bill iT** – an offline-first billing app for clothing stores  
@@ -36,5 +36,3 @@ Final Year CSE @ St. Joseph's Institute of Technology
 [![Sethu's LeetCode Stats](https://leetcard.jacoblin.cool/SETHULAKSHMANAN_SP?ext=contest&theme=dark)](https://leetcode.com/u/SETHULAKSHMANAN_SP/)
 
 [![Sethu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sethubolt7&bg_color=000000&color=00ffb3&line=00ffc3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
