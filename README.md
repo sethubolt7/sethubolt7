@@ -38,6 +38,39 @@ Final Year CSE @ St. Joseph's Institute of Technology
 
 ---
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px; text-align: center;">
+    <h3>💻 I Code In</h3>
+    <img height="40" src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/ionic.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/html-5.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/css3.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  </div>
+
+  <div style="flex: 1; padding: 10px; text-align: center;">
+    <h3>🛠️ Tools I Use</h3>
+    <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/>
+    <img height="40" src="https://img.icons8.com/fluency/48/android-studio--v3.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/firebase.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/linux.png"/>
+    <img height="40" src="https://img.icons8.com/color/48/github.png"/>
+  </div>
+
+  <div style="flex: 1; padding: 10px; text-align: center;">
+    <h3>🖥️ Workspace</h3>
+    <img height="30" src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/Intel-i5_11thGen-blue?style=for-the-badge&logo=intel&logoColor=white"/>
+  </div>
+</div>
+
+---
+
 ### 💻 I Code In  
 <img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/typescript.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/>  <img height="40" src="https://img.icons8.com/color/48/ionic.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> 
 
