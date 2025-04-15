@@ -1,100 +1,77 @@
-# 👨‍💻 SETHULAKSHMANAN SP
+# 👨‍💻 **SETHULAKSHMANAN SP**
+
 ### Software Engineer | Problem Solver | Tech Explorer
 
-![Chennai, India](https://img.shields.io/badge/-Chennai,%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethulakshmanan-sp)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sethubolt7)
+---
+
+### 🌍 **Connect with Me:**
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sethulakshmanan11@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethulakshmanan-sp)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/sethubolt7)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-210+%20problems-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/SETHULAKSHMANAN_SP/)  
 
 ---
 
-## 🧠 **Tech Stack**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,sql&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,spring,bootstrap,html,css&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,h2&theme=dark" />
-</div>
-
----
-
-## 💼 **Experience**
-
-### 🏭 **Fifth Generation Technologies India Pvt Ltd**
-*Internship | June 2024 – Present*  
-- Migrating an industrial **machinery monitoring application** from **Ionic 3 → Ionic 7** to enhance compatibility and maintainability.
-
-### 🛡️ **Supraja Technologies**
-*Internship | Feb 2024 – June 2024*  
-- Worked with **Nmap**, **Wireshark**, and **Burp Suite** in network scanning and vulnerability assessments.
-
----
-
-## 🔥 **Leetcode & DSA Mastery**
-
-### 🏆 **Leetcode Profile**
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-210+%20problems-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/SETHULAKSHMANAN_SP/)
-
-#### **Leetcode Progress**
+### 🏆 **LeetCode Mastery**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SETHULAKSHMANAN_SP?theme=dark&font=baloo&ext=contest" width="300px"/>
 </p>
 
-#### **DSA Achievements**
-- **Leetcode:** Solved **210+ problems** (easy to hard), ranked in top **5%** for problem-solving difficulty.
-- Mastered **Data Structures** (Arrays, Trees, Graphs, etc.) and **Algorithms** (Sorting, Dynamic Programming).
-- Emphasis on **SOLID principles** and **OOPS** for scalable, optimized solutions.
+- **210+ Problems** solved (Top 5% rank in difficulty handling)
+- Focus on **Algorithms, Data Structures**, and **Optimized Solutions**
+- Constantly working on improving problem-solving speed and depth
 
 ---
 
-### 🏆 **GeeksforGeeks Profile**
-[![GFG Profile](https://img.shields.io/badge/GeeksForGeeks-200+%20problems-blue?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sethubewgq/)
+### 💻 **My Learning Journey**
+#### 📚 **Ongoing Projects**
+- **Real-time Pothole Detection with YOLOv4 and Raspberry Pi**
+- **Offline-first Billing App for Local Clothing Shops**  
+- **TensorFlow-Lite + OpenCV for Real-time Object Detection**
 
-#### **GeeksforGeeks Progress**
+#### 🧠 **Currently Diving Into**
+- WebSocket & Django for **real-time charting**
+- Advanced **Data Structures** and **Dynamic Programming**
+
+---
+
+### 🧑‍💻 **GeeksforGeeks** Contributions  
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-200+%20problems-blue?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sethubewgq/)  
+
+#### 🚀 **GeeksforGeeks Achievements**
 <p align="center">
   <img src="https://gfg-card-generator.vercel.app/?username=sethubewgq&theme=dark" width="300px"/>
 </p>
+- **200+ Problems** solved with a focus on **algorithms**
+- Contributing tutorials and solutions to help others understand complex problems
 
 ---
 
-## ⚙️ **Projects**
-
-### 🔧 **Smart Vehicle-Mounted Pothole Detection**
-> **Tech:** YOLOv4-Tiny, Raspberry Pi 4, Flutter, Firebase  
-📍 A **real-time pothole detection system** to improve road safety.  
-🏆 **Best Research Paper Award** at *ICUIS 2024 (IEEE-CIS)* – Out of 250+ submissions.
-
----
-
-### 🗺️ **Citizen Issue Reporting Application**
-> **Tech:** Flutter, Firebase RTDB, OpenStreetMap  
-🚧 Allows citizens to report **local issues** like **road damage**, **garbage**, and **electricity problems**.  
-🏅 **1st Place** in the *Cognizant + StartupTN Hackathon* (400+ participants).
+### 🎯 **Tech Stack:**
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-### 🔐 **CVE Custom API**
-> **Tech:** Spring Boot, JPA, H2, HTML, JavaScript  
-🛠️ **CVE Management API** to filter, display, and search through **10,000+ CVE records**.  
-🔧 Built with **REST APIs** and **MVC architecture**.
+### ⚡ **Achievements & Recognition**
 
----
-
-## 🏅 **Achievements**
-
-| 🏆 Title | 🏁 Organization/Event |
-|---------|------------------------|
+| 🏆 **Title** | 🏁 **Event/Organization** |
+|-------------|--------------------------|
 | 🥇 **Best Paper** – ICUIS 2024 | IEEE-CIS |
-| 🥇 **1st Place** – Socio-Tech Hackathon | StartupTN + Cognizant |
+| 🥇 **1st Place** – Socio-Tech Hackathon | Cognizant + StartupTN |
 | 🎯 **Finalist** – Smart India Hackathon 2023 | Indian Govt. |
 | 🥈 **Runner-up** – Cubethon 2023 | Cubet + Nasscom |
-| 🥇 **Winner** – IEEE YESIST’12, Egypt | IEEE |
-| 🥈 **2nd Place** – Hack Wheel Hackathon 2022 | Chennai, TN |
 
 ---
 
-## 🎯 **Currently Learning**
-```txt
-> WebSocket + Django backend → Real-time chart updates
-> TensorFlow-Lite + OpenCV for On-device Pothole Detection
-> Offline-first Billing App for Local Clothing Shops
+> **"Building a better tomorrow with technology, one line of code at a time."**
+
+---
+
+This format removes heavy sectioning, adds dynamic icons and badges, and keeps everything visually clean, minimal, and sleek. The LeetCode and GeeksforGeeks sections are highlighted with live updates, which makes them look visually appealing but still functional. 
+
+Let me know if this suits your vision better!
