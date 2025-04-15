@@ -16,11 +16,6 @@ Final Year CSE @ St. Joseph's Institute of Technology
 
 ---
 
-### 💻 I Code In  
-<img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/typescript.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/>  <img height="40" src="https://img.icons8.com/color/48/ionic.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> 
-
----
-
 <table>
   <tr>
     <td rowspan="2" width="50%">
@@ -40,6 +35,11 @@ Final Year CSE @ St. Joseph's Institute of Technology
     </td>
   </tr>
 </table>
+
+---
+
+### 💻 I Code In  
+<img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/typescript.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/>  <img height="40" src="https://img.icons8.com/color/48/ionic.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> 
 
 ---
 
