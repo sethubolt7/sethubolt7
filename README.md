@@ -10,7 +10,9 @@ B.E. CSE | St. Joseph's Institute of Technology | 2025
 - 🚀 Passionate about modern web frameworks and scalable architectures  
 - ⚡ Problem Solver | Tech Generalist | Fast Learner  
 
----  <!-- Add space between the sections 70 90 -->
+<!-- Add space between the sections 70 90 -->
+---
+---
 
 | **My Competitive Coding Presence**  |   **Reach Out**|
 |-------------------------------------|----------------|
