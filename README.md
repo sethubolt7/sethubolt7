@@ -38,7 +38,7 @@ Final Year CSE @ St. Joseph's Institute of Technology
 
 ---
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
   <div style="flex: 1; padding: 10px; text-align: center;">
     <h3>💻 I Code In</h3>
     <img height="40" src="https://img.icons8.com/color/48/000000/python.png"/>
