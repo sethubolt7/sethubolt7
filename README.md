@@ -46,12 +46,27 @@
 
 ---
 
-## 📈 Problem Solving
+## 🧠 Problem Solving & DSA
+
+### 💻 Leetcode Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Leetcode-210+ problems-orange?style=flat-square&logo=leetcode" />
-  <img src="https://img.shields.io/badge/GFG-120+ problems-green?style=flat-square&logo=geeksforgeeks" />
+  <a href="https://leetcode.com/sethulakshmanan11/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-210+%20problems-orange?style=flat-square&logo=leetcode&logoColor=white" /></a>
 </p>
+
+- **Over 210 problems solved** on **Leetcode**, ranging from **easy to advanced** difficulty.
+- Consistently solving **algorithm challenges** to sharpen problem-solving skills.
+- **Ranked** in the top **5%** for **difficulty** handling.
+
+### 📚 DSA Mastery
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+- Proficient in **Data Structures** (Arrays, Linked Lists, Trees, Graphs, Heaps, Stacks, Queues).
+- Strong focus on **algorithms** (Sorting, Searching, Dynamic Programming, Divide and Conquer).
+- Implementing **SOLID principles** and **OOPS concepts** for cleaner and more efficient code.
 
 ---
 
