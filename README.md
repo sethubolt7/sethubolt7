@@ -32,3 +32,22 @@ Final Year CSE @ St. Joseph's Institute of Technology
 ---
 
 [![Sethu's LeetCode Stats](https://leetcard.jacoblin.cool/SETHULAKSHMANAN_SP?ext=contest&theme=dark)](https://leetcode.com/u/SETHULAKSHMANAN_SP/) ![Sethu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethubolt7&theme=dark&show_icons=true&hide=contribs,issues) [![Sethu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sethubolt7&bg_color=000000&color=00ffb3&line=00ffc3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+  <tr>
+    <td rowspan="2" width="50%">
+      <a href="https://leetcode.com/u/SETHULAKSHMANAN_SP/">
+        <img src="https://leetcard.jacoblin.cool/SETHULAKSHMANAN_SP?ext=contest&theme=dark" width="100%"/>
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=sethubolt7&theme=dark&show_icons=true&hide=contribs,issues" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sethubolt7&bg_color=000000&color=00ffb3&line=00ffc3&point=ffffff&area=true&hide_border=true" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
