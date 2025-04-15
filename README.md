@@ -15,18 +15,21 @@
 
 ## 🚀 **Tech Stack**
 
+### **Languages & Frameworks**
 <div align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql" /><br><br>
-  
-  <!-- Frontend & Mobile -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,dart,firebase" /><br><br>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql" width="250px" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=spring,flutter,dart" width="250px" style="margin: 10px;"/>
+</div>
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=spring,h2" /><br><br>
+### **Frontend & Mobile**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" width="250px" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="250px" style="margin: 10px;"/>
+</div>
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,figma" />
+### **Backend & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=h2,git,linux,vscode" width="250px" style="margin: 10px;"/>
 </div>
 
 ---
@@ -59,7 +62,7 @@
 - Focused on **SOLID principles** and **OOPS** for more scalable and optimized solutions.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=java,python" width="250px" style="margin: 10px;"/>
 </div>
 
 ---
