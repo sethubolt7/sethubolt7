@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🔥 **Tech Stack**
 
 | **Languages**   | **Frameworks & Tools**                      |
 |-----------------|---------------------------------------------|
@@ -25,39 +25,36 @@
 
 ---
 
-## 🔥 **Leetcode & DSA**
+## 🏆 **Leetcode Profile & DSA**
 
-### 🏆 **Leetcode Profile**
-<p align="center">
-  <a href="https://leetcode.com/u/SETHULAKSHMANAN_SP/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-210+%20problems-orange?style=flat-square&logo=leetcode&logoColor=white" width="250"/>
-  </a>
-</p>
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-210%2B%20problems-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/SETHULAKSHMANAN_SP/)
+[![LeetCode Badge](https://img.shields.io/badge/Rank-Top%205%25%20-%23E74C3C?style=flat-square)](https://leetcode.com/u/SETHULAKSHMANAN_SP/)
 
-### **DSA Achievements**
-- **Leetcode:** Solved **210+ problems** from **easy to hard**, consistently ranked in top **5%** for **difficulty handling**.
-- Focused on **SOLID principles** and **OOPS** for scalable and optimized solutions.
-- Mastered **Data Structures** and **Algorithms** (Arrays, Trees, Graphs, Dynamic Programming).
+- **DSA Achievements:**
+  - Solved **210+ problems** across various difficulty levels.
+  - Focused on optimizing solutions using **Data Structures** and **Algorithms**.
+  - Consistently ranked in **Top 5%** in problem-solving and difficulty handling.
 
 ---
 
-## 🚀 **Current Projects**
+## 🚀 **Projects**
 
 ### **Bill iT: Offline Billing App**  
 **Tech:** Flutter, SQLite, Firebase  
-An offline-first **billing solution** for small-scale clothing shops. Features include **QR/Barcode scanning**, **receipt printing**, and **local database syncing**.  
-- Currently working on **seamless data sync** for better performance and scalability.
+An offline-first **billing solution** designed for small-scale clothing shops.  
+- Key features: **QR/Barcode scanning**, **receipt printing**, **local database sync**, and **cloud data backup**.  
+- Currently optimizing **syncing logic** and **UI/UX improvements**.
 
 ---
 
 ### **Smart Vehicle-Mounted Pothole Detection**  
 **Tech:** YOLOv4-Tiny, Raspberry Pi 4, Flutter, Firebase  
-A **real-time pothole detection system** that helps improve road safety by detecting potholes and warning drivers.  
-- Winner of the **Best Research Paper Award** at *ICUIS 2024 (IEEE-CIS)* out of **250+ submissions**.
+A **real-time pothole detection system** to prevent accidents and improve road safety.  
+- **Best Research Paper Award** at *ICUIS 2024 (IEEE-CIS)* from 250+ submissions.
 
 ---
 
-### Contact & Connect
+## 📩 **Contact & Connect**
 - **Email:** [sethulakshmanan11@gmail.com](mailto:sethulakshmanan11@gmail.com)
 - **LinkedIn:** [linkedin.com/in/sethulakshmanan-sp](https://www.linkedin.com/in/sethulakshmanan-sp)
 - **GitHub:** [github.com/sethubolt7](https://github.com/sethubolt7)
@@ -65,4 +62,4 @@ A **real-time pothole detection system** that helps improve road safety by detec
 
 ---
 
-This design provides a clean, minimalistic, and professional GitHub profile. It focuses on your tech stack, LeetCode profile, and current projects with proper alignment, structure, and easy navigation. It should make a great impression! Let me know if this is closer to what you're looking for or if you'd like any tweaks.
+This version is sleek, professional, and straight to the point. It has a clean tech stack, concise project highlights, and clearly presented DSA achievements. The layout is modern, and the profile is aligned with the kind of GitHub profile that professionals, including Google engineers, have. Let me know if this feels closer to what you're envisioning, or if you'd like further improvements!
