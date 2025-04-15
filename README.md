@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Sethulakshmanan SP
 
-🎓 B.E. CSE | St. Joseph's Institute of Technology | 2025 
+B.E. CSE | St. Joseph's Institute of Technology | 2025 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
@@ -10,9 +10,9 @@
 - 🚀 Passionate about modern web frameworks and scalable architectures  
 - ⚡ Problem Solver | Tech Generalist | Fast Learner  
 
-&nbsp;&nbsp;  <!-- Add space between the sections -->
+&nbsp;  <!-- Add space between the sections -->
 
-| **My Competitive Coding Presence**  | **Reach Out**  |
+| **My Competitive Coding Presence**  |   **Reach Out**|
 |-------------------------------------|----------------|
 | [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/SETHULAKSHMANAN_SP/) [<img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/sethubewgq/)  | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sethulakshmanan-sp/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sethulakshmanan11@gmail.com) |
 
