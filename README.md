@@ -13,12 +13,26 @@
 
 ---
 
-## 🧠 Tech Stack
+<!-- Tech + Leetcode Combined Grid -->
+<table>
+  <tr>
+    <!-- Left: Tech Stack -->
+    <td align="center" valign="top" width="50%">
+      <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,sql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=flutter,firebase,spring,bootstrap,html,css&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,linux,vscode,h2&theme=dark" />
+    </td>
 
-| ![Java](https://skillicons.dev/icons?i=java) | ![Python](https://skillicons.dev/icons?i=python) | ![Dart](https://skillicons.dev/icons?i=dart) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![SQL](https://skillicons.dev/icons?i=postgresql) |
-|---|---|---|---|---|---|
-| ![Flutter](https://skillicons.dev/icons?i=flutter) | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Spring](https://skillicons.dev/icons?i=spring) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![HTML5](https://skillicons.dev/icons?i=html5) | ![CSS3](https://skillicons.dev/icons?i=css3) |
-| ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![H2](https://skillicons.dev/icons?i=database) |  |  |
+    <!-- Right: Leetcode Stats -->
+    <td align="center" valign="top" width="50%">
+      <a href="https://leetcode.com/sethulakshmanan11/">
+        <img src="https://leetcard.jacoblin.cool/sethulakshmanan11?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+      </a>
+      <br/>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=sethulakshmanan11&theme=github-dark&animated=true" alt="LeetCode Badges" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -36,22 +50,10 @@
 
 ## 🔥 **Leetcode & DSA Mastery**
 
-### 🏆 **Leetcode Profile**
-
-<p align="center">
-  <a href="https://leetcode.com/sethulakshmanan11/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-210+%20problems-orange?style=flat-square&logo=leetcode&logoColor=white" width="250"/>
-  </a>
-</p>
-
 ### **DSA Achievements**
 - **Leetcode:** Solved **210+ problems** from **easy to hard**, consistently ranked in top **5%** for **difficulty handling**.
 - Mastered **Data Structures** (Arrays, Trees, Graphs, etc.) and **Algorithms** (Sorting, Dynamic Programming, Divide and Conquer).
 - Focused on **SOLID principles** and **OOPS** for more scalable and optimized solutions.
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python" width="250px" style="margin: 10px;"/>
-</div>
 
 ---
 
@@ -92,6 +94,7 @@
 ---
 
 ## 🎯 **Currently Learning**
+
 ```txt
 > WebSocket + Django backend → Real-time chart updates
 > TensorFlow-Lite + OpenCV for On-device Pothole Detection
