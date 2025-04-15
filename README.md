@@ -16,35 +16,17 @@ Final Year CSE @ St. Joseph's Institute of Technology
 ---
 
 ### 💻 I Code In  
-<img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/000000/typescript.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/ionic.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/html-5.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/css3.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/sass.png"/>
-<img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/000000/sqlite.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/typescript.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/>  <img height="40" src="https://img.icons8.com/color/48/ionic.png"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> 
 
 ---
 
 ### 🛠️ Tools I Use  
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/000000/git.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/> 
-<img height="40" src="https://img.icons8.com/fluency/48/android-studio--v3.png"/>
-<img height="40" src="https://img.icons8.com/color/48/firebase.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/linux.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/github.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="40" src="https://img.icons8.com/color/48/figma--v1.png"/> <img height="40" src="https://img.icons8.com/fluency/48/android-studio--v3.png"/><img height="40" src="https://img.icons8.com/color/48/firebase.png"/> <img height="40" src="https://img.icons8.com/color/48/linux.png"/> <img height="40" src="https://img.icons8.com/color/48/github.png"/>
 
 ---
 
 ### 🖥️ Workspace  
-<img height="30" src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
-<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/Intel-i5_11thGen-blue?style=for-the-badge&logo=intel&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/Intel-i5_11thGen-blue?style=for-the-badge&logo=intel&logoColor=white"/>  
 
 ---
 
