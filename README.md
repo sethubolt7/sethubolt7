@@ -1,18 +1,21 @@
 ## Hey there 👋 I'm Sethulakshmanan SP
 
-Final Year CSE @ St. Joseph's Institute of Technology  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+Final Year CSE @ St. Joseph's Institute of Technology  
 
 
 - 🔧 Building **Bill iT** – an offline-first billing app for clothing stores  
 - 🧠 Exploring AI integrations and real-time systems  
-- 🧰 Migrating legacy stacks (Ionic 3 → Ionic 7), optimizing UI/UX  
-- 📈 Revamped a monitoring platform UI to reduce access time by 30%  
+- 🧰 Migrating legacy stacks (Ionic 3 → Ionic 7), optimizing UI/UX   
 - ⚡ Problem Solver | Tech Generalist | Fast Learner
 
 ### My Competitive Coding Presence  
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/SETHULAKSHMANAN_SP/)  
 [<img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/sethubewgq/)
+ 
+### Reach Out
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sethulakshmanan-sp/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sethulakshmanan11@gmail.com)
 
 ---
 
