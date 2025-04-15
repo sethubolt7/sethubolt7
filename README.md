@@ -1,16 +1,15 @@
-## Hi there 👋
+# Navigate to your project directory
+cd your-project-name
 
-<!--
-**sethubolt7/sethubolt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Create README.md
+touch README.md
 
-Here are some ideas to get you started:
+# Open it in a text editor and paste the markdown
+nano README.md
+# or use VS Code
+code README.md
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Save, then add and commit it
+git add README.md
+git commit -m "Add README"
+git push origin main  # or whatever your branch is
