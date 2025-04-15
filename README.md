@@ -15,13 +15,10 @@
 
 ## 🧠 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,sql&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,spring,bootstrap,html,css&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,h2&theme=dark" />
-</div>
-
-
+| ![Java](https://skillicons.dev/icons?i=java) | ![Python](https://skillicons.dev/icons?i=python) | ![Dart](https://skillicons.dev/icons?i=dart) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![SQL](https://skillicons.dev/icons?i=postgresql) |
+|---|---|---|---|---|---|
+| ![Flutter](https://skillicons.dev/icons?i=flutter) | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Spring](https://skillicons.dev/icons?i=spring) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![HTML5](https://skillicons.dev/icons?i=html5) | ![CSS3](https://skillicons.dev/icons?i=css3) |
+| ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![H2](https://skillicons.dev/icons?i=database) |  |  |
 
 ---
 
