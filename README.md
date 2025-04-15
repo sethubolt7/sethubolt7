@@ -13,24 +13,19 @@
 
 ---
 
-## 🚀 **Tech Stack**
+## 🚀 Tech Stack
 
-### **Languages & Frameworks**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql" width="250px" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=spring,flutter,dart" width="250px" style="margin: 10px;"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,sql" />
+</p>
 
-### **Frontend & Mobile**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" width="250px" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="250px" style="margin: 10px;"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,spring,bootstrap,html,css" />
+</p>
 
-### **Backend & Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=h2,git,linux,vscode" width="250px" style="margin: 10px;"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,h2" />
+</p>
 
 ---
 
