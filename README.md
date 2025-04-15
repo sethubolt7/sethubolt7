@@ -1,8 +1,8 @@
-<!-- GitHub README for SETHULAKSHMANAN SP -->
+<!-- GitHub Dark Cyber Dev Vibe README for SETHULAKSHMANAN SP -->
 
-<h1 align="center">👨‍💻 SETHULAKSHMANAN SP</h1>
-<p align="center">Software Engineer | Problem Solver | Tech Explorer</p>
-<p align="center">Final Year CSE Student at St. Joseph’s Institute of Technology</p>
+<h1 align="center" style="font-size: 48px; color: #1e90ff;">👨‍💻 SETHULAKSHMANAN SP</h1>
+<p align="center" style="font-size: 22px; color: #cccccc;">Software Engineer | Problem Solver | Tech Explorer</p>
+<p align="center" style="font-size: 16px; color: #bbbbbb;">Final Year CSE Student at St. Joseph’s Institute of Technology</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Chennai,%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -13,25 +13,18 @@
 
 ---
 
-<div align="center">
-
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,sql&theme=dark" /><br>
-      <img src="https://skillicons.dev/icons?i=flutter,firebase,spring,bootstrap,html,css&theme=dark" /><br>
-      <img src="https://skillicons.dev/icons?i=git,linux,vscode,h2&theme=dark" />
+    <td width="50%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,flutter,firebase,spring,bootstrap,html,css,git,linux,vscode,h2&perline=4&theme=dark" />
     </td>
-    <td align="center">
-      <a href="https://leetcode.com/sethulakshmanan11/">
-        <img src="https://leetcard.jacoblin.cool/sethulakshmanan11?theme=dark&font=baloo&ext=activity" width="300px"/>
-      </a><br>
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=sethulakshmanan11&theme=github-dark&animated=true" width="250px"/>
+    <td width="50%" valign="top" align="center">
+      <a href="https://leetcode.com/u/SETHULAKSHMANAN_SP/">
+        <img src="https://leetcard.jacoblin.cool/SETHULAKSHMANAN_SP?ext=contest&theme=dark" />
+      </a>
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
@@ -49,10 +42,9 @@
 
 ## 🔥 **Leetcode & DSA Mastery**
 
-### **DSA Achievements**
-- **Leetcode:** Solved **210+ problems** from **easy to hard**, consistently ranked in top **5%** for **difficulty handling**.
-- Mastered **Data Structures** (Arrays, Trees, Graphs, etc.) and **Algorithms** (Sorting, Dynamic Programming, Divide and Conquer).
-- Focused on **SOLID principles** and **OOPS** for more scalable and optimized solutions.
+- Solved **210+ problems** across all levels.
+- Consistently ranked in top **5%** for handling hard problems.
+- Mastered **DSA patterns** – Trees, Graphs, Sliding Window, DP, Recursion, OOPS.
 
 ---
 
@@ -93,7 +85,6 @@
 ---
 
 ## 🎯 **Currently Learning**
-
 ```txt
 > WebSocket + Django backend → Real-time chart updates
 > TensorFlow-Lite + OpenCV for On-device Pothole Detection
