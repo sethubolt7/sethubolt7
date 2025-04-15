@@ -50,10 +50,7 @@ Final Year CSE @ St. Joseph's Institute of Technology
     <img height="40" src="https://img.icons8.com/color/48/html-5.png"/>
     <img height="40" src="https://img.icons8.com/color/48/css3.png"/>
     <img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  </div>
-
-  <!-- Tools I Use Section -->
-  <div style="flex: 1; padding: 10px;">
+  </div> <div style="flex: 1; padding: 10px;">
     <h3>🛠️ Tools I Use</h3>
     <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
     <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
