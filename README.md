@@ -38,7 +38,7 @@ Final Year CSE @ St. Joseph's Institute of Technology
 
 ---
 
-<div style="display: flex; width: 100%; padding: 10px;">
+<div style="display: flex; width: 100%; justify-content: space-between; padding: 10px;">
   <!-- I Code In Section -->
   <div style="flex: 1; padding: 10px;">
     <h3>💻 I Code In</h3>
@@ -50,7 +50,10 @@ Final Year CSE @ St. Joseph's Institute of Technology
     <img height="40" src="https://img.icons8.com/color/48/html-5.png"/>
     <img height="40" src="https://img.icons8.com/color/48/css3.png"/>
     <img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  </div> <div style="flex: 1; padding: 10px;">
+  </div>
+
+  <!-- Tools I Use Section -->
+  <div style="flex: 1; padding: 10px;">
     <h3>🛠️ Tools I Use</h3>
     <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
     <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
@@ -68,6 +71,7 @@ Final Year CSE @ St. Joseph's Institute of Technology
     <img height="30" src="https://img.shields.io/badge/Intel-i5_11thGen-blue?style=for-the-badge&logo=intel&logoColor=white"/>
   </div>
 </div>
+
 
 ---
 
