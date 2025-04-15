@@ -1,6 +1,12 @@
 ## Hey there 👋 I'm Sethulakshmanan SP
 
 🎓 B.E. CSE | St. Joseph's Institute of Technology | 2025 
+|                                                                 |                                                                 |
+|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| - 🔧 Building **Bill iT** – an offline-first billing app for clothing stores  <br> - 💻 Strong in Data Structures and Algorithms (DSA)  <br> - 🧠 Focused on AI integration and real-time system development  <br> - 🚀 Passionate about modern web frameworks and scalable architectures  <br> - ⚡ Problem Solver \| Tech Generalist \| Fast Learner | <img width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> |
+
+
+
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
