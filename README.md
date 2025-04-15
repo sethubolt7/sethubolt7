@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm Sethulakshmanan SP
 
 B.E. CSE | St. Joseph's Institute of Technology | 2025 
-<img align="right" width="300" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
 - 🔧 Building **Bill iT** – an offline-first billing app for clothing stores  
